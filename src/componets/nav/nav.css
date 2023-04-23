@@ -7,7 +7,7 @@ nav {
     justify-content: space-between;
     padding: 0 10px;
     align-items: center;
-    background: repeating-linear-gradient(35deg,silver 100px, black 150px);
+    background: repeating-linear-gradient(35deg,blue 100px, indigo 150px);
     color: white;
     border-bottom: 5px solid #000;
     background-image: url('/public/download.jpg');
