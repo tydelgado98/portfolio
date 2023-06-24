@@ -1,10 +1,12 @@
 #footer {
-    background: repeating-linear-gradient(-35deg,silver 100px, black 150px);
-    position: fixed;
-    bottom: 0;
+    background: repeating-linear-gradient(-35deg,gainsboro 80px, whitesmoke 150px);
+    position: relative;
+    bottom: 100%;
     width: 100%;
     text-align: center;
     color: white;
     font-size: 1.5rem;
     border-top: 5px solid #000;
+    height: 13vh;
+    margin-top: 60px;
 }

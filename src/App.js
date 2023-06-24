@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { Nav, Footer, About, Work, Contact } from './componets';
 import { useState } from 'react';
@@ -8,7 +8,7 @@ const App = () => {
 
 return <>
   <Nav setPage = {setPage} />
-  
+
   {
     page==='about' ? <About /> :
     page==='work' ? <Work /> : 
