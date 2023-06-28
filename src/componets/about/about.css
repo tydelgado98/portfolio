@@ -15,15 +15,15 @@ body {
     border: 5px solid #000;
     border-radius: 8px;
     float: left;
-    margin-right: 20px;
+    margin-right: 30px;
 }
 
 p {
     font-size: 1.2rem;
 }
 
-#skills {
-    width: 90%;
-    margin: 20px auto;
+#skills img {
+    width: 5%;
+    margin: 20px 20px;
     margin-top: 3%;
 }
