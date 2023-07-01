@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 nav {
@@ -8,18 +9,18 @@ nav {
     padding: 0 10px;
     align-items: center;
     /* background: repeating-linear-gradient(35deg,  gainsboro 80px, whitesmoke 150px); */
-    background-color: darkslateblue;
+    background-color: lightsteelblue;
     color: white;
-    border-bottom: 5px solid grey;
+    border-bottom: 3px solid darkgray;
     /* background-image: url('/public/download.jpg'); */
     /* background-size: cover;
     background-repeat: no-repeat; */
-    height: 20vh;
+    height: 10vh;
 }
 
 nav h1 {
-    background: grey;   
-    border: 2px solid black;
+    /* background: white;    */
+    /* border: 2px solid black; */
     padding: 10px;
     border-radius: 8px;
     color: black;
@@ -32,6 +33,7 @@ nav button {
     margin: 0 20px;
     font-size: 1.5rem;
     border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
     /* border-bottom: 5px solid white; */
 }
 
@@ -41,6 +43,6 @@ nav button:hover {
 }
 nav h1:hover {
     
-    background: darkslategray;
+    color: gray;
     /* border-bottom: 5px solid white; */
 }

@@ -31,13 +31,15 @@ const About = () =>
             <img src={skills1} alt='skills' />
             <img src={skills1} alt='skills' /> 
         </div>
+        <div id="bottom">
         <br/> <br/> <br /><br/>
-        <br /><br /> <br />
-       
+        <br /><br /> <br /><br/>
+        <br/><br/><br/>
         <h1>Skills</h1>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi rerum similique magni atque, voluptas maxime aperiam libero, </p>
         <p>Ipsa explicabo commodi, eveniet voluptatibus minus ratione sequi. Quisquam quos labore harum. Debitis, molestiae nemo amet laudantium perferendis dicta culpa libero voluptates vel non voluptate.</p>
         <p>Quisquam quos labore harum. Debitis, molestiae nemo amet laudantium perferendis dicta culpa libero voluptates vel non voluptate.</p>
+        </div>
         {/* <div id="skills">
             <img src={skills1} alt='skills' />
         </div> */}
