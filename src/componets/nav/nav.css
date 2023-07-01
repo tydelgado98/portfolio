@@ -7,9 +7,10 @@ nav {
     justify-content: space-between;
     padding: 0 10px;
     align-items: center;
-    background: repeating-linear-gradient(35deg,  gainsboro 80px, whitesmoke 150px);
+    /* background: repeating-linear-gradient(35deg,  gainsboro 80px, whitesmoke 150px); */
+    background-color: darkslateblue;
     color: white;
-    border-bottom: 5px solid #000;
+    border-bottom: 5px solid grey;
     /* background-image: url('/public/download.jpg'); */
     /* background-size: cover;
     background-repeat: no-repeat; */
@@ -17,12 +18,13 @@ nav {
 }
 
 nav h1 {
-    background: green;   
+    background: grey;   
     border: 2px solid black;
     padding: 10px;
     border-radius: 8px;
-    color: ghostwhite;
+    color: black;
 }
+
 
 nav button {
     background: transparent;
@@ -30,5 +32,15 @@ nav button {
     margin: 0 20px;
     font-size: 1.5rem;
     border: none;
-    border-bottom: 5px solid white;
+    /* border-bottom: 5px solid white; */
+}
+
+nav button:hover {
+    color: gray;
+    /* border-bottom: 5px solid white; */
+}
+nav h1:hover {
+    
+    background: darkslategray;
+    /* border-bottom: 5px solid white; */
 }
