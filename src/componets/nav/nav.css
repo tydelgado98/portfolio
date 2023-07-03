@@ -15,7 +15,7 @@ nav {
     /* background-image: url('/public/download.jpg'); */
     /* background-size: cover;
     background-repeat: no-repeat; */
-    height: 10vh;
+    height: 6vh;
 }
 
 nav h1 {
@@ -38,8 +38,8 @@ nav button {
 }
 
 nav button:hover {
-    color: gray;
-    /* border-bottom: 5px solid white; */
+    color: white;
+    border-bottom: 5px solid white;
 }
 nav h1:hover {
     
