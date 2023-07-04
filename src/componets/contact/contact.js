@@ -10,18 +10,9 @@ const Contact = () =>
         Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
         Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
         Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        
+        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF  
         </h2>
     </div>
+    
 
 export default Contact;

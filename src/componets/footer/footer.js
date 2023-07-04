@@ -2,7 +2,10 @@ import './footer.css';
 
 const Footer = () => 
     <div id="footer">
-        <h3>'' (*_*) ''</h3>
+        <h2>Made by Justin Tyler</h2>
+  <p>
+      &copy; 2023 JTD.
+  </p>
     </div>
 
 export default Footer;

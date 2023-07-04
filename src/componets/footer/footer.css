@@ -1,12 +1,12 @@
 #footer {
-    background: repeating-linear-gradient(-35deg,gainsboro 80px, whitesmoke 150px);
-    position: relative;
-    bottom: 100%;
-    width: 100%;
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    color: white;
-    font-size: 1.5rem;
-    border-top: 5px solid #000;
-    height: 13vh;
-    margin-top: 60px;
+}
+#footer h2 {
+    font-size: 20px;
+}
+#footer p {
+    font-size: 16px;
 }

@@ -2,31 +2,36 @@
     {
         "key":1,
         "appName": "App 1",
-        "image": "https://picsum.photos/200/200",
-        "info": "App 1 description"
+        "image": "/images/dog.jpg",
+        "info": "App 1 description",
+        "websiteUrl": "https://unnamedmistress.github.io/thepawpath/"
     },
     {
         "key":2,
         "appName": "App 2",
-        "image": "https://picsum.photos/200/200",
-        "info": "App 2 description"
+        "image": "/images/IMG_2662.PNG",
+        "info": "App 2 description",
+        "websiteUrl": "https://github.com/unnamedmistress/terminator"
     },
     {
         "key":3,
         "appName": "App 3",
-        "image": "https://picsum.photos/200/200",
-        "info": "App 3 description"
+        "image": "/images/pnghut_garage-sale-vector-graphics-sales-clip-art-illustration-yard-furniture.png",
+        "info": "App 3 description",
+        "websiteUrl": "https://github.com/unnamedmistress/GarageJunkies"
     },
     {
         "key":4,
         "appName": "App 4",
-        "image": "https://picsum.photos/200/200",
-        "info": "App 4 description"
+        "image": "/images/rock.jpg",
+        "info": "App 4 description",
+        "websiteUrl": "https://tydelgado98.github.io/Rock-paper-scissor/"
     },
     {
         "key":5,
         "appName": "App 5",
-        "image": "https://picsum.photos/200/200",
-        "info": "App 5 description"
+        "image": "/images/rain.png",
+        "info": "App 5 description",
+        "websiteUrl": "https://tydelgado98.github.io/daily-forecast/"
     }
 ]
