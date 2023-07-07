@@ -9,27 +9,35 @@ nav {
     padding: 0 10px;
     align-items: center;
     /* background: repeating-linear-gradient(35deg,  gainsboro 80px, whitesmoke 150px); */
-    background-color: lightsteelblue;
-    color: white;
-    border-bottom: 3px solid darkgray;
+    background-color: #282828;
+    border-bottom: 3px solid #282828;
     /* background-image: url('/public/download.jpg'); */
     /* background-size: cover;
     background-repeat: no-repeat; */
     height: 6vh;
 }
 
-nav h1 {
-    /* background: white;    */
-    /* border: 2px solid black; */
+#first {
     padding: 10px;
     border-radius: 8px;
-    color: black;
+    color: #D8D8D8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
 }
 
+#first h1 {
+    margin-bottom: 1px; /* Adjust the margin bottom as desired */
+
+}
+
+#first h4 {
+    margin-top: 1px; /* Adjust the margin top as desired */
+    font-size: 7.5px;
+}
 
 nav button {
     background: transparent;
-    color: black;
+    color: #D8D8D8;
     margin: 0 20px;
     font-size: 1.4rem;
     border: none;
@@ -38,11 +46,11 @@ nav button {
 }
 
 nav button:hover {
-    color: white;
+    color: rgb(20, 172, 0);
     padding: 8px;
-    border-bottom: 5px solid whitesmoke;
+    border-bottom: 5px solid rgb(20, 172, 0);
 }
 nav h1:hover {
-    color: whitesmoke;
+    color: rgb(20, 172, 0);
     /* border-bottom: 5px solid white; */
 }
