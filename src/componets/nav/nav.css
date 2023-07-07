@@ -49,11 +49,11 @@ nav button {
 }
 
 nav button:hover {
-    color: rgb(20, 172, 0);
+    color: rgba(20, 172, 0, 0.726);
     padding: 8px;
-    border-bottom: 5px solid rgb(20, 172, 0);
+    border-bottom: 5px solid rgba(20, 172, 0, 0.815);
 }
 nav h1:hover {
-    color: rgb(20, 172, 0);
+    color: rgba(20, 172, 0, 0.74);
     /* border-bottom: 5px solid white; */
 }
