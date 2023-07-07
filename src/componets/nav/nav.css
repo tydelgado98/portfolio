@@ -27,9 +27,9 @@ nav {
 
 #first h1 {
     margin-bottom: 1px; /* Adjust the margin bottom as desired */
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 700;
-    font-size: 1.6rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 550;
+    font-size: 1.25rem;
 }
 
 #first h4 {

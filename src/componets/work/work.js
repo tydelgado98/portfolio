@@ -21,7 +21,7 @@ const Work = () => {
 
             <div>
               <h2>{appName}</h2>
-              <h4>{info}</h4>
+              <h7>{info}</h7>
             </div>
           </div>
         ))}

@@ -1,9 +1,9 @@
 [
     {
         "key":1,
-        "appName": "App 1",
+        "appName": "ThePawPath",
         "image": "/images/dog.jpg",
-        "info": "App 1 description",
+        "info": "Find pets for adoption in your area!",
         "websiteUrl": "https://unnamedmistress.github.io/thepawpath/"
     },
     {
