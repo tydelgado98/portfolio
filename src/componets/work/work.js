@@ -8,7 +8,7 @@ const Work = () => {
 
   return (
     <div id="work">
-      <h1>Applications</h1>
+      <h1>Recent Projects</h1>
 
       <div id="appsDiv">
         {apps.map(({ key, appName, image, info, websiteUrl }) => (
