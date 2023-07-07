@@ -20,24 +20,27 @@ nav {
 #first {
     padding: 10px;
     border-radius: 8px;
-    color: #D8D8D8;
+    color: #C8C8C8;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: block;
 }
 
 #first h1 {
     margin-bottom: 1px; /* Adjust the margin bottom as desired */
-
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 1.6rem;
 }
 
 #first h4 {
     margin-top: 1px; /* Adjust the margin top as desired */
-    font-size: 7.5px;
+    font-size: 13px;
+    margin-bottom: 17px;
 }
 
 nav button {
     background: transparent;
-    color: #D8D8D8;
+    color: #C8C8C8;
     margin: 0 20px;
     font-size: 1.4rem;
     border: none;
