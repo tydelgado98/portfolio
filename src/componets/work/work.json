@@ -15,21 +15,21 @@
     },
     {
         "key":3,
-        "appName": "App 3",
+        "appName": "Garage Junkies",
         "image": "/images/hutt.png",
         "info": "App 3 description",
         "websiteUrl": "https://github.com/unnamedmistress/GarageJunkies"
     },
     {
         "key":4,
-        "appName": "App 4",
+        "appName": "Rock,Paper,Scissors",
         "image": "/images/roc.jpg",
         "info": "App 4 description",
         "websiteUrl": "https://tydelgado98.github.io/Rock-paper-scissor/"
     },
     {
         "key":5,
-        "appName": "App 5",
+        "appName": "Wheather Tracker",
         "image": "/images/rain.png",
         "info": "App 5 description",
         "websiteUrl": "https://tydelgado98.github.io/daily-forecast/"
