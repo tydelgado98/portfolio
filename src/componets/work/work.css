@@ -1,6 +1,7 @@
 body {
-   font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
 #work {
     margin: 19px auto;
     margin-top: 3%;
@@ -12,7 +13,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-   margin-bottom: 90px;
+    margin-bottom: 90px;
 }
 
 #appsDiv .card:first-child {
@@ -20,14 +21,16 @@ body {
     height: 50vh;
     margin-bottom: 60px;
 }
+
 #appsDiv .card {
     width: 48%;
     position: relative;
     margin: 20px 0px;
     margin-top: 40px;
+    filter: blur(3px);
 }
 
-.card img {
+.card > img {
     width: 100%;
     height: 100%;
     border: 4px solid #000;
@@ -38,6 +41,7 @@ body {
 .card img:hover {
     opacity: .8;
     box-shadow: 9px -1px 20px 2px rgba(20, 172, 0, 0.432);
+    filter: blur(0px);
 }
 
 .card div {
