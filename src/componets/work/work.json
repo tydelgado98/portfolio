@@ -2,7 +2,7 @@
     {
         "key":1,
         "appName": "ThePawPath",
-        "image": "/images/dog.jpg",
+        "image": "/images/pups.jpg",
         "info": "Find pets for adoption in your area!",
         "websiteUrl": "https://unnamedmistress.github.io/thepawpath/"
     },
@@ -23,7 +23,7 @@
     {
         "key":4,
         "appName": "App 4",
-        "image": "/images/rock.jpg",
+        "image": "/images/roc.jpg",
         "info": "App 4 description",
         "websiteUrl": "https://tydelgado98.github.io/Rock-paper-scissor/"
     },
