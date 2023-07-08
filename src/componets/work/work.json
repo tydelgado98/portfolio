@@ -8,7 +8,7 @@
     },
     {
         "key":2,
-        "appName": "App 2",
+        "appName": "Typo Terminator",
         "image": "/images/IMG_2662.PNG",
         "info": "App 2 description",
         "websiteUrl": "https://github.com/unnamedmistress/terminator"
@@ -16,7 +16,7 @@
     {
         "key":3,
         "appName": "App 3",
-        "image": "/images/pnghut_garage-sale-vector-graphics-sales-clip-art-illustration-yard-furniture.png",
+        "image": "/images/hutt.png",
         "info": "App 3 description",
         "websiteUrl": "https://github.com/unnamedmistress/GarageJunkies"
     },
