@@ -1,6 +1,15 @@
 import './about.css';
 import me from "./images/PIC.jpg"
 import skills1 from './images/react.png';
+import skills2 from './images/html.png';
+import skills3 from './images/csss.png';
+import skills4 from './images/jss.png';
+import skills5 from './images/node.png';
+import skills6 from './images/sql.png';
+import skills7 from './images/moo.png';
+import skills8 from './images/msql.png';
+import skills9 from './images/express.png';
+import skills10 from './images/op.png';
 
 const About = () =>
     <div id="about">
@@ -22,17 +31,15 @@ const About = () =>
         </h2>
         <div id="skills">
             <img src={skills1} alt='skills' />
-            <img src={skills1} alt='skills' />
-            <img src={skills1} alt='skills' />
-            <img src={skills1} alt='skills' />
-            <img src={skills1} alt='skills' />
-            <img src={skills1} alt='skills' />
-            <img src={skills1} alt='skills' />
-            <img src={skills1} alt='skills' />
-            <img src={skills1} alt='skills' />
-            <img src={skills1} alt='skills' />
-            <img src={skills1} alt='skills' />
-            <img src={skills1} alt='skills' /> 
+            <img src={skills2} alt='skills' />
+            <img src={skills3} alt='skills' />
+            <img src={skills4} alt='skills' />
+            <img src={skills5} alt='skills' />
+            <img src={skills6} alt='skills' />
+            <img src={skills7} alt='skills' />
+            <img src={skills8} alt='skills' />
+            <img src={skills9} alt='skills' />
+            <img src={skills10} alt='skills' />
         </div>
         <div id="bottom">
         <br/> <br/> <br /><br/>
