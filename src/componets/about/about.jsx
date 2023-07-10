@@ -17,11 +17,10 @@ const About = () =>
         <div id='me'>
         <h1>About me</h1>
         <h2> 
-     I'm Justin Delgado, a passionate full-stack developer <br /> who has honed my skills through the rigorous training I received at UCF's esteemed bootcamp.<br /> 
-        I've always had a deep love for technology, and being able to bring ideas to life through web development <br /> is my ultimate passion.
-    During my time at UCF's bootcamp, I immersed myself in learning everything I could about both front-end and back-end development. <br />
-     I've become well-versed in languages like 
-    HTML, CSS, JavaScript, and Python, <br /> and I've also gained expertise in frameworks and libraries such as React, Angular, and Django. <br /> 
+        I'm Justin Delgado, a passionate full-stack developer who has honed my skills through rigorous training at UCF's esteemed bootcamp.
+         With a deep love for technology, my ultimate passion lies in bringing ideas to life through web development. <br />
+    During my time at UCF's bootcamp, I immersed myself in learning the intricacies of both front-end and back-end development,
+    becoming proficient in various technologies and frameworks. <br />
         </h2>
         </div>
 
