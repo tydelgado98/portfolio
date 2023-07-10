@@ -26,16 +26,16 @@ const About = () =>
         </div>
 
         <div id="skills">
-            <img src={skills1} alt='skills' />
-            <img src={skills2} alt='skills' />
-            <img src={skills3} alt='skills' />
-            <img src={skills4} alt='skills' />
-            <img src={skills5} alt='skills' />
-            <img src={skills6} alt='skills' />
-            <img src={skills7} alt='skills' />
-            <img src={skills8} alt='skills' />
-            <img src={skills9} alt='skills' />
-            <img src={skills10} alt='skills' />
+            <img src={skills1} alt='react image' />
+            <img src={skills2} alt='html image' />
+            <img src={skills3} alt='css image' />
+            <img src={skills4} alt='jss image' />
+            <img src={skills5} alt='node image' />
+            <img src={skills6} alt='sql image' />
+            <img src={skills7} alt='mongoDb image' />
+            <img src={skills8} alt='mysql image' />
+            <img src={skills9} alt='express image' />
+            <img src={skills10} alt='oop image' />
         </div>
         <div id="bottom">
         
