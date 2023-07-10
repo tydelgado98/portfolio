@@ -1,5 +1,6 @@
 import './about.css';
 import me from "./images/PIC.jpg"
+import certificate from "./images/cer.png"
 import skills1 from './images/react.png';
 import skills2 from './images/html.png';
 import skills3 from './images/csss.png';
@@ -38,8 +39,8 @@ const About = () =>
         </div>
         <div id="bottom">
         
-        <h1>Skills</h1>
-        <img src= "./images/Certificate.png" alt='react image' />
+        <h1>Certificate</h1>
+        <img src={certificate} alt="picture of me" />
         </div>
     </div>
 
