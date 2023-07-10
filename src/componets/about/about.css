@@ -46,15 +46,16 @@ p {
   }
   
   #bottom h1 {
-    margin-bottom: 23px;
+    margin-bottom: 2.8rem;
     font-size:  2.8rem;
   }
   
   #bottom img {
-    width: 30%;
+    width: 35%;
     height: auto;
     display: block;
     margin: 0 auto;
+    
   }
   
   
