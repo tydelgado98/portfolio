@@ -25,10 +25,9 @@ p {
 #skills {
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
+    justify-content: center;
     margin-top: 5%;
-    margin-left: 20%;
-    margin-right: 20%;
+   
 }
 
 #skills img {
