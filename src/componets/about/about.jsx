@@ -38,7 +38,6 @@ const About = () =>
             <img src={skills10} alt='oop image' />
         </div>
         <div id="bottom">
-        
         <h1>Certificate</h1>
         <img src={certificate} alt="picture of me" />
         </div>
