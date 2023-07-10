@@ -39,9 +39,7 @@ const About = () =>
         <div id="bottom">
         
         <h1>Skills</h1>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi rerum similique magni atque, voluptas maxime aperiam libero, </p>
-        <p>Ipsa explicabo commodi, eveniet voluptatibus minus ratione sequi. Quisquam quos labore harum. Debitis, molestiae nemo amet laudantium perferendis dicta culpa libero voluptates vel non voluptate.</p>
-        <p>Quisquam quos labore harum. Debitis, molestiae nemo amet laudantium perferendis dicta culpa libero voluptates vel non voluptate.</p>
+        <img src= "./images/Certificate.png" alt='react image' />
         </div>
     </div>
 
