@@ -34,6 +34,11 @@ p {
 #skills img {
     width: 11%;
     margin: 3% 1.5%;
+    border-radius: 33px;
+}
+#skills:hover img {
+    transform: scale(1.1);
+    transition: 0.3s;
 }
 
 #bottom {
@@ -55,7 +60,7 @@ p {
     height: auto;
     display: block;
     margin: 0 auto;
-    
+    border-radius: 33px;
   }
   
   
