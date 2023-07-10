@@ -15,8 +15,8 @@ body {
     border: 5px solid #000;
     border-radius: 8px;
     float: left;
-    margin-right: 1%;
-    margin-bottom: 0.6%;
+    margin-right: 4%;
+    margin-bottom: 0%;
 }
 
 p {
@@ -37,7 +37,7 @@ p {
 }
 
 #bottom {
-    margin-top: 10%;
+    margin-top: 5%;
     margin-left: 20%;
     margin-bottom: 6%;
     margin-right: 20%;
@@ -45,7 +45,7 @@ p {
 
 #me {
     margin-top: 5%;
-    margin-bottom: 12%;
+    margin-bottom: 8%;
    margin-right: 25%;
    
 }
