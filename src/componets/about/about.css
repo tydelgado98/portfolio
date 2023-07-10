@@ -39,7 +39,7 @@ p {
 #skills img:hover {
     transform: scale(1.3);
     transition: 0.4s;
-    border:  #303030;
+    border: 3px solid #be0000;
 }
 
 #bottom {
