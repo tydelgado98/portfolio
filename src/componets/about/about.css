@@ -23,7 +23,12 @@ p {
 }
 
 #skills img {
-    width: 5%;
-    margin: 20px 20px;
+    width: 10%;
+    
     margin-top: 3%;
+    margin-bottom: 10%;
+}
+#bottom {
+    margin-top: 19%;
+    margin-bottom: 10%;
 }
