@@ -15,19 +15,20 @@ body {
     border: 5px solid #000;
     border-radius: 8px;
     float: left;
-    margin-right: 30px;
+    margin-right: 1%;
+    margin-bottom: 0.6%;
 }
 
 p {
     font-size: 1.2rem;
 }
 
+
 #skills {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 5%;
-   
 }
 
 #skills img {
@@ -36,6 +37,13 @@ p {
 }
 
 #bottom {
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-bottom: 6%;
+    margin-right: 20%;
+}
+
+#me {
     margin-top: 5%;
     margin-left: 20%;
     margin-bottom: 6%;
