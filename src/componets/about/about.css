@@ -18,7 +18,9 @@ body {
     margin-bottom: 0%;
     margin-left: 10%;
 }
-
+#about img:hover {
+    border: 3px solid #0033be;
+}
 p {
     font-size: 1.2rem;
 }
@@ -35,7 +37,8 @@ p {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 3%;
+  margin-top: 1%;
+  margin-bottom: 1%;
   width: 90%; /* Adjust this value as needed */
   max-width: 100%; /* Ensure the skills container doesn't exceed the parent container */
 }
