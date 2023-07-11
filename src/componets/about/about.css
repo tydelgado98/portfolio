@@ -35,7 +35,7 @@ p {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 5%;
+  margin-top: 3%;
   width: 90%; /* Adjust this value as needed */
   max-width: 100%; /* Ensure the skills container doesn't exceed the parent container */
 }
@@ -82,7 +82,6 @@ p {
   
 #me {
     margin-top: 5%;
-    margin-bottom: 8%;
+    margin-bottom: 15%;
    margin-right: 25%;
-   
 }
