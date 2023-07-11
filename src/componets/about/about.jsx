@@ -24,7 +24,7 @@ const About = () =>
     becoming proficient in various technologies and frameworks. <br />
         </h2>
         </div>
-
+    <div id="bg">
         <div id="skills">
             <img src={skills1} alt='react image' />
             <img src={skills2} alt='html image' />
@@ -36,6 +36,7 @@ const About = () =>
             <img src={skills8} alt='mysql image' />
             <img src={skills9} alt='express image' />
             <img src={skills10} alt='oop image' />
+        </div>
         </div>
         <div id="bottom">
         <h1>Certificate</h1>

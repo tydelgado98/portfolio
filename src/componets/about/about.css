@@ -4,10 +4,9 @@ body {
 }
 
 #about {
-    width: 90%;
+    width: 100%;
     margin: 20px auto;
     margin-top: 3%;
-    margin-bottom: 100px;
 }
 
 #about img {
@@ -17,6 +16,7 @@ body {
     float: left;
     margin-right: 4%;
     margin-bottom: 0%;
+    margin-left: 10%;
 }
 
 p {
@@ -24,22 +24,32 @@ p {
 }
 
 
+#bg {
+  background-color: #282828;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
 #skills {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-top: 5%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 5%;
+  width: 90%; /* Adjust this value as needed */
+  max-width: 100%; /* Ensure the skills container doesn't exceed the parent container */
 }
 
 #skills img {
-    width: 10%;
-    margin: 3% 1.5%;
-    border-radius: 33px;
-    transition: 0.4s;
+  width: 10%;
+  margin: 3% 1.5%;
+  border-radius: 33px;
+  transition: 0.4s;
 }
+
 #skills img:hover {
-    transform: scale(1.4);
-    border: 3px solid #0033be;
+  transform: scale(1.4);
+  border: 3px solid #0033be;
 }
 
 #bottom {
