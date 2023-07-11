@@ -50,11 +50,11 @@ nav button {
 }
 
 nav button:hover {
-    color: rgba(20, 172, 0, 0.726);
+    color: #0033be;
     padding: 8px;
-    border-bottom: 5px solid rgba(20, 172, 0, 0.815);
+    border-bottom: 5px solid #0033be;
 }
 nav h1:hover {
-    color: rgba(20, 172, 0, 0.74);
+    color: #0033be;
     /* border-bottom: 5px solid white; */
 }
