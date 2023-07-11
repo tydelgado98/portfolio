@@ -19,7 +19,7 @@ body {
     margin-left: 10%;
 }
 #about img:hover {
-    border: 3px solid #0033be;
+    border: 5px solid #0033be;
 }
 p {
     font-size: 1.2rem;
