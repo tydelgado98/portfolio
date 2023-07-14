@@ -8,9 +8,14 @@ body {
     width: 60%;
     text-align: center;
 }
-#contactlinks {
+#links {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     margin-bottom: 90px;
+    
+}
+#links a {
+    text-decoration: none;
+    color: #C8C8C8;
 }
