@@ -2,16 +2,11 @@ import './contact.css';
 
 const Contact = () => 
     <div id="contact">
-        <h1>Contact info goes here!!!</h1>
-        <h2>
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF
-        Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF Hello Hewloo HGGDFGD dgfGDFGDF  
-        </h2>
+        <h1>Contact</h1>
+        <p>Phone: 555-555-5555</p>
+        <p>Email:</p>
+        <p>Address:</p>
+        
     </div>
     
 

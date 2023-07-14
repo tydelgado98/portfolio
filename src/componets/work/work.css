@@ -43,6 +43,7 @@ body {
     opacity: 10;
     box-shadow: 9px -1px 20px 2px rgba(20, 172, 0, 0.432);
     filter: blur(0px);
+    cursor: pointer;
 }
 
 .card div {

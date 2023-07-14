@@ -88,3 +88,6 @@ p {
     margin-bottom: 15%;
    margin-right: 25%;
 }
+#me h1:hover {
+ color:  #0033be;
+}
