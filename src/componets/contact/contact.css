@@ -2,3 +2,8 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #C8C8C8;
 }
+#contact {
+    margin: 19px auto;
+    margin-top: 3%;
+    width: 60%;
+}
