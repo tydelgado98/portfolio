@@ -6,4 +6,11 @@ body {
     margin: 19px auto;
     margin-top: 3%;
     width: 60%;
+    text-align: center;
+}
+#contactlinks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 90px;
 }
