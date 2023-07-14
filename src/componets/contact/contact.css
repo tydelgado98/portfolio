@@ -25,10 +25,11 @@ body {
     color: #0033be;
 }
 #click img {
-    width: 10%;
+    width: 5%;
     margin: 3% 1.5%;
     border-radius: 33px;
     transition: 0.4s;
+    flex-direction: row;
 }
 #click img:hover {
     transform: scale(1.4);
