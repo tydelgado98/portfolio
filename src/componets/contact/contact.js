@@ -14,8 +14,9 @@ const Contact = () => (
       <a href="https://github.com/tydelgado98">
         <img src={git} alt="git" />
         </a>
+        <a href="https://www.linkedin.com/in/justin-delgado-9b0a1a1b0/">
         <img src={linked} alt="linked" />
-      
+      </a>
     </div>
   </div>
 );
