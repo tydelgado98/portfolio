@@ -1,5 +1,7 @@
 import './contact.css';
 import git from './images/Git.png';
+import linked from './images/linked.png';
+
 
 const Contact = () => 
     <div id="contact">
@@ -9,12 +11,9 @@ const Contact = () =>
        <p>
          <a href="mailto: delgadojustin100@yahoo.com">Delgadojustin100@yahoo.com</a>
            </p>
-         
-           <h1>LinkedIn</h1>
-           <img src={git} alt="git" />
-
            </div>
-
+           <div id="click">
+           <img src={git} alt="git" />
     </div>
     
 
