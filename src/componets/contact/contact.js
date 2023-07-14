@@ -5,7 +5,6 @@ import linked from './images/linked.png';
 
 const Contact = () => 
     <div id="contact">
-        <h1>Contact</h1>
         <div id="links">
         <h1>Email</h1>
        <p>
@@ -14,6 +13,8 @@ const Contact = () =>
            </div>
            <div id="click">
            <img src={git} alt="git" />
+           <img src={linked} alt="linked" />
+           </div>
     </div>
     
 
