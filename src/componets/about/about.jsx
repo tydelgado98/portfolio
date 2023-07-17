@@ -37,7 +37,7 @@ const About = () =>
         </div>
         </div>
         <div id="bottom">
-        <h1>Certificate</h1>
+        <h1>Full-Stack Web Development Certificate</h1>
         <img src={certificate} alt="picture of me" />
         </div>
     </div>
