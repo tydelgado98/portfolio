@@ -16,7 +16,7 @@ const About = () =>
     <div id="about">
         <img src={me} alt="picture of me" />
         <div id='me'>
-        <h1>About me</h1>
+        <h1>Bio</h1>
         <h2> 
         I'm Justin Delgado, a passionate full-stack developer who has honed my skills through rigorous training at UCF's esteemed bootcamp.
          With a deep love for technology, my ultimate passion lies in bringing ideas to life through web development. <br />
