@@ -20,8 +20,6 @@ const About = () =>
         <h2> 
         I'm Justin Delgado, a passionate full-stack developer who has honed my skills through rigorous training at UCF's esteemed bootcamp.
          With a deep love for technology, my ultimate passion lies in bringing ideas to life through web development. <br />
-    During my time at UCF's bootcamp, I immersed myself in learning the intricacies of both front-end and back-end development,
-    becoming proficient in various technologies and frameworks. <br />
         </h2>
         </div>
     <div id="bg">
