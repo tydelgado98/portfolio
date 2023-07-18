@@ -2,35 +2,35 @@
     {
         "key":1,
         "appName": "ThePawPath",
-        "image": "/images/pups.jpg",
+        "image": "./images/pups.jpg",
         "info": "Find pets for adoption in your area 😇",
         "websiteUrl": "https://unnamedmistress.github.io/thepawpath/"
     },
     {
         "key":2,
         "appName": "Typo Terminator",
-        "image": "/images/IMG_2662.PNG",
+        "image": "./images/IMG_2662.PNG",
         "info": "CoverLetter Generator for Job Seekers!",
         "websiteUrl": "https://github.com/unnamedmistress/terminator"
     },
     {
         "key":3,
         "appName": "Garage Junkies",
-        "image": "/images/hutt.png",
+        "image": "./images/hutt.png",
         "info": "Marketplace for Garagesales💍👟",
         "websiteUrl": "https://github.com/unnamedmistress/GarageJunkies"
     },
     {
         "key":4,
         "appName": "Rock,Paper,Scissors",
-        "image": "/images/roc.jpg",
+        "image": "./images/roc.jpg",
         "info": "Can you beat the computer?",
         "websiteUrl": "https://tydelgado98.github.io/Rock-paper-scissor/"
     },
     {
         "key":5,
         "appName": "Weather Tracker",
-        "image": "/images/rain.png",
+        "image": "./images/rain.png",
         "info": "Find the weather in your area!",
         "websiteUrl": "https://tydelgado98.github.io/daily-forecast/"
     }
