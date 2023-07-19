@@ -44,7 +44,7 @@ const About = () => (
       <img src={certificate} alt="picture of me" />
     </div>
 
-    <Work /> 
+    {/* <Work />  */}
   </div>
    
 );
