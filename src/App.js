@@ -3,7 +3,7 @@ import { Nav, Footer, About, Work, Contact } from './componets';
 import { useState } from 'react';
 
 const App = () => {
-  const [page, setPage] = useState('about');
+  const [page, setPage] = useState('work');
 
 return <>
   <Nav setPage = {setPage} />

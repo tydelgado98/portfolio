@@ -12,6 +12,11 @@ import skills8 from './images/msql.png';
 import skills9 from './images/express.png';
 import skills10 from './images/op.png';
 
+const handleImageClick = (websiteUrl) => {
+    window.location.href = websiteUrl;
+  };
+
+
 const About = () =>
     <div id="about">
         <img src={me} alt="picture of me" />

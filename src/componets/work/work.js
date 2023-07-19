@@ -11,11 +11,11 @@ const Work = () => {
       <h1>Recent Projects</h1>
 
       <div id="appsDiv">
-        {apps.map(({ key, appName, image, info, websiteUrl }) => (
+        {apps.map(({ key, appName, pic, info, websiteUrl }) => (
           <div className="card" key={key}>
             <img
-              src={image}
-              alt="app pic"
+              src={pic}
+              alt="Picture of the app"
               onClick={() => handleImageClick(websiteUrl)}
             />
 
