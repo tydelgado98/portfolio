@@ -13,6 +13,7 @@ import skills8 from './images/msql.png';
 import skills9 from './images/express.png';
 import skills10 from './images/op.png';
 import Work from '../work/work';
+import '../work/work.css'
 
 const About = () => (
   <div id="about">
@@ -45,6 +46,7 @@ const About = () => (
 
     <Work /> 
   </div>
+   
 );
 
 export default About;
