@@ -13,7 +13,7 @@ import skills8 from './images/msql.png';
 import skills9 from './images/express.png';
 import skills10 from './images/op.png';
 import Work from '../work/work';
-import '../work/work.css'
+import pup from '../work/images/pups.jpg';
 
 const About = () => (
   <div id="about">
@@ -44,9 +44,11 @@ const About = () => (
       <img src={certificate} alt="picture of me" />
     </div>
   <div id='works'>
-  <Work />
+    <div className='cards'></div>
+    <img src={pup} alt="pawpath" />
+    
   </div>
-  
+  {/* <Work /> */}
   </div>
    
 );
