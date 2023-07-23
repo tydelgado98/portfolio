@@ -43,11 +43,11 @@ const About = () => (
       <h1>Full-Stack Web Development Certificate</h1>
       <img src={certificate} alt="picture of me" />
     </div>
-  <div id='works'>
+  {/* <div id='works'>
     <div className='cards'></div>
     <img src={pup} alt="pawpath" />
     
-  </div>
+  </div> */}
   {/* <Work /> */}
   </div>
    
