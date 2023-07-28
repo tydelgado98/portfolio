@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import me from "./images/PIC.jpg";
+import me from "./images/Juju.jpg";
 import certificate from "./images/cer.png";
 import skills1 from './images/react.png';
 import skills2 from './images/html.png';
