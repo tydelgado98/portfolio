@@ -11,7 +11,7 @@ body {
 
 #about img {
     width: 260px;
-    border: 5px solid #000;
+    border: 5.5px solid #282828;
     border-radius: 8px;
     float: left;
     margin-right: 4%;
@@ -19,7 +19,7 @@ body {
     margin-left: 10%;
 }
 #about img:hover {
-    border: 5px solid #0033be;
+    border: 5.5px solid #0033be;
 }
 p {
     font-size: 1.2rem;
