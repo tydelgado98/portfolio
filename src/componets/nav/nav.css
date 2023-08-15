@@ -42,7 +42,6 @@ nav button {
     border: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     cursor: pointer;
-    /* border-bottom: 5px solid white; */
 }
 
 nav button:hover {
@@ -52,5 +51,4 @@ nav button:hover {
 }
 nav h1:hover {
     color: #0033be;
-    /* border-bottom: 5px solid white; */
 }
