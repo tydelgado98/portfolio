@@ -8,10 +8,10 @@ nav {
     justify-content: space-between;
     padding: 0 10px;
     align-items: center;
-    /* background: repeating-linear-gradient(35deg,  gainsboro 80px, whitesmoke 150px); */
+
     background-color: #282828;
     border-bottom: 3px solid #282828;
-    /* background-image: url('/public/download.jpg'); */
+    
    
     height: 6vh;
 }
