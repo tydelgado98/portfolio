@@ -22,7 +22,7 @@
     },
     {
       "key": 4,
-      "appName": "Rock,Paper,Scissors",
+      "appName": "ScriptSprint",
       "pic": "./images/roc.jpg",
       "info": "Can you beat the computer?",
       "websiteUrl": "https://tydelgado98.github.io/Rock-paper-scissor/"
