@@ -5,14 +5,14 @@ import apps from './work.json';
 import pupsImage from './images/pups.jpg';
 import terminatorImage from './images/IMG_2662.PNG';
 import garageJunkiesImage from './images/hutt.png';
-import rockPaperScissorsImage from './images/roc.jpg';
+import quizImage from './images/quiz.png';
 import weatherTrackerImage from './images/rain.png';
 
 const appImages = {
   'ThePawPath': pupsImage,
   'Typo Terminator': terminatorImage,
   'Garage Junkies': garageJunkiesImage,
-  'Rock,Paper,Scissors': rockPaperScissorsImage,
+  'quiz': quizImage,
   'Weather Tracker': weatherTrackerImage
 };
 
