@@ -12,7 +12,7 @@ const appImages = {
   'ThePawPath': pupsImage,
   'Typo Terminator': terminatorImage,
   'Garage Junkies': garageJunkiesImage,
-  'quiz': quizImage,
+  'ScriptSprint': quizImage,
   'Weather Tracker': weatherTrackerImage
 };
 
