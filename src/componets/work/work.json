@@ -32,7 +32,7 @@
       "appName": "Weather Tracker",
       "pic": "./images/rain.png",
       "info": "Find the weather in your area!",
-      "websiteUrl": "https://tydelgado98.github.io/daily-forecast/"
+      "websiteUrl": "https://tydelgado98.github.io/weather-api/"
     }
   ]
   

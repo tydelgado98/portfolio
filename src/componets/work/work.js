@@ -1,7 +1,6 @@
 import React from 'react';
 import './work.css';
 import apps from './work.json';
-
 import pupsImage from './images/pups.jpg';
 import terminatorImage from './images/IMG_2662.PNG';
 import garageJunkiesImage from './images/hutt.png';
