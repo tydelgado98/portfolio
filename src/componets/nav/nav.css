@@ -51,4 +51,5 @@ nav button:hover {
 }
 nav h1:hover {
     color: #0033be;
+    cursor: pointer;
 }
