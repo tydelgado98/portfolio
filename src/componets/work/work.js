@@ -6,10 +6,11 @@ import terminatorImage from './images/IMG_2662.PNG';
 import garageJunkiesImage from './images/hutt.png';
 import quizImage from './images/quiz.png';
 import weatherTrackerImage from './images/rain.png';
+import desertImage from './images/desert.png';
 
 const appImages = {
   'ThePawPath': pupsImage,
-  'Typo Terminator': terminatorImage,
+  'La Desert Chronicles': desertImage,
   'Garage Junkies': garageJunkiesImage,
   'ScriptSprint': quizImage,
   'Weather Tracker': weatherTrackerImage

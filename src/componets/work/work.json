@@ -8,10 +8,10 @@
     },
     {
       "key": 2,
-      "appName": "Typo Terminator",
-      "pic": "./images/IMG_2662.PNG",
-      "info": "CoverLetter Generator for Job Seekers!",
-      "websiteUrl": "https://github.com/unnamedmistress/terminator"
+      "appName": "La Desert Chronicles",
+      "pic": "./images/desert.png",
+      "info": "Turn based rpg game with a desert theme!🌵",
+      "websiteUrl": "https://tydelgado98.github.io/first-rpg/"
     },
     {
       "key": 3,
