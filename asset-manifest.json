@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c1b4345b.css",
-    "main.js": "/portfolio/static/js/main.ff56bfc9.js",
+    "main.css": "/portfolio/static/css/main.a2a58c65.css",
+    "main.js": "/portfolio/static/js/main.92474309.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/IMG_2662.PNG": "/portfolio/static/media/IMG_2662.5ea0c8d50eb479c8a6eb.PNG",
+    "static/media/newRpgShot.png": "/portfolio/static/media/newRpgShot.f4603d22fa584ee86196.png",
     "static/media/Juju.jpg": "/portfolio/static/media/Juju.757cfe11f1703f77be90.jpg",
     "static/media/pups.jpg": "/portfolio/static/media/pups.c754f0e5427697136e0e.jpg",
+    "static/media/pups2.png": "/portfolio/static/media/pups2.a8db0fb819e87970422b.png",
     "static/media/cer.png": "/portfolio/static/media/cer.ad5924fc5c9045e4c6ac.png",
     "static/media/op.png": "/portfolio/static/media/op.dbe60117d6961012baa3.png",
     "static/media/moo.png": "/portfolio/static/media/moo.d6432f11ff7661d6283a.png",
     "static/media/express.png": "/portfolio/static/media/express.e1e98b36293690ade068.png",
     "static/media/csss.png": "/portfolio/static/media/csss.19c8605d6b2861f5fbe0.png",
     "static/media/rain.png": "/portfolio/static/media/rain.c516de500540499ed488.png",
-    "static/media/Git.png": "/portfolio/static/media/Git.9fd6563ea692b39723f1.png",
     "static/media/msql.png": "/portfolio/static/media/msql.a8846802c054e7b1e83a.png",
-    "static/media/linked.png": "/portfolio/static/media/linked.621f99e99733eaa73e3d.png",
-    "static/media/desert.png": "/portfolio/static/media/desert.a33723a06abdc198bed6.png",
     "static/media/node.png": "/portfolio/static/media/node.7b0f4700ed6ce39afdff.png",
     "static/media/jss.png": "/portfolio/static/media/jss.166865dacb77d214f485.png",
     "static/media/hutt.png": "/portfolio/static/media/hutt.077197d63553860b122b.png",
@@ -23,12 +22,12 @@
     "static/media/quiz.png": "/portfolio/static/media/quiz.c2ecaba23901b8bcc791.png",
     "static/media/react.png": "/portfolio/static/media/react.4458987cc59156258cac.png",
     "index.html": "/portfolio/index.html",
-    "main.c1b4345b.css.map": "/portfolio/static/css/main.c1b4345b.css.map",
-    "main.ff56bfc9.js.map": "/portfolio/static/js/main.ff56bfc9.js.map",
+    "main.a2a58c65.css.map": "/portfolio/static/css/main.a2a58c65.css.map",
+    "main.92474309.js.map": "/portfolio/static/js/main.92474309.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1b4345b.css",
-    "static/js/main.ff56bfc9.js"
+    "static/css/main.a2a58c65.css",
+    "static/js/main.92474309.js"
   ]
 }
