@@ -12,7 +12,7 @@ body {
 #about img {
     width: 260px;
     border: 5.5px solid #282828;
-    border-radius: 8px;
+    border-radius: 200px;
     float: left;
     margin-right: 4%;
     margin-bottom: 0%;
@@ -51,12 +51,14 @@ p {
   width: 10%;
   margin: 3% 1.5%;
   border-radius: 33px;
-  transition: 0.4s;
+  border:none;
+  transition: 0.5s;
 }
 
 #skills img:hover {
-  transform: scale(1.4);
-  border: 3px solid #0033be;
+  transform: scale(1.3);
+  transition: 0.5s;
+  border: none;
 }
 
 #bottom {
@@ -82,19 +84,30 @@ p {
     transition: 0.9s;
   }
   #bottom img:hover {
-    transform: scale(1.6);
+    transform: scale(1.2);
     border: 3px solid #0033be;
   }
   
+  #herd img {
+    width: 6%;
+    height: auto;
+    display: block;
+    margin: 0;
+    transition: 0.5s;
+    border: none;
+  }
+  #herd img:hover {
+    margin: 0;
+    border: none;
+    transform: scale(1.1);
+  }
   
 #me {
     margin-top: 5%;
     margin-bottom: 15%;
    margin-right: 25%;
 }
-#me h1:hover {
- color:  #0033be;
-}
+
 
 #works {
     margin-top: 5%;

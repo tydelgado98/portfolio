@@ -14,6 +14,9 @@ import skills9 from './images/express.png';
 import skills10 from './images/op.png';
 import Work from '../work/work';
 import pup from '../work/images/pups.jpg';
+import herd from './images/icons8-github-100.png';
+import sup from './images/icons8-linked-in-128.png';
+import skills11 from './images/icons8-postman-api-256.png';
 
 const About = () => (
   <div id="about">
@@ -24,6 +27,10 @@ const About = () => (
         I'm Justin Delgado, a passionate full-stack developer who has honed my skills through rigorous training at UCF's esteemed bootcamp.
         With a deep love for technology, my ultimate passion lies in bringing ideas to life through web development. <br />
       </h2>
+      <section id='herd'>
+        <img src={herd} alt="" />
+        <img src={sup} alt="" />
+      </section>
     </div>
     <div id="bg">
       <div id="skills">
@@ -36,7 +43,7 @@ const About = () => (
         <img src={skills7} alt='mongoDb image' />
         <img src={skills8} alt='mysql image' />
         <img src={skills9} alt='express image' />
-        <img src={skills10} alt='oop image' />
+        <img src={skills11} alt='postman image' />
       </div>
     </div>
     <div id="bottom">
