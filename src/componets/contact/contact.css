@@ -22,7 +22,7 @@ body {
     color: #C8C8C8;
 }
 #links a:hover {
-    color: #0033be;
+    color: rgb(179, 179, 179);
 }
 #click img {
     width: 7%;

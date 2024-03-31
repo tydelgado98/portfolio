@@ -1,6 +1,6 @@
 import './contact.css';
-import git from './images/Git.png';
-import linked from './images/linked.png';
+import git from '../about/images/icons8-github-100.png';
+import linked from '../about/images/icons8-linked-in-128.png';
 
 const Contact = () => (
   <div id="contact">

@@ -20,7 +20,7 @@ import skills11 from './images/icons8-postman-api-256.png';
 
 const About = () => (
   <div id="about">
-    <img src={me} alt="picture of me" />
+    <img id='picOfMe' src={me} alt="picture of me" />
     <div id='me'>
       <h1>Bio</h1>
       <h2>

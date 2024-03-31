@@ -45,11 +45,9 @@ nav button {
 }
 
 nav button:hover {
-    color: #0033be;
-    padding: 8px;
-    border-bottom: 5px solid #0033be;
+  text-decoration: overline  #617dcc;
 }
-nav h1:hover {
+/* nav h1:hover {
     color: #0033be;
     cursor: pointer;
-}
+} */
