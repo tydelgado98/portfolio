@@ -20,6 +20,7 @@ body {
     width: 100%;
     height: 50vh;
     margin-bottom: 60px;
+    filter: blur(0px);
 }
 
 #appsDiv .card {
@@ -39,9 +40,12 @@ body {
     transition: filter 0.4s ease-in-out;
 }
 
+.card:first-child > img {
+    filter: blur(0px);
+}
 .card img:hover {
     opacity: 10;
-    box-shadow: 9px -1px 20px 2px rgba(20, 172, 0, 0.432);
+    box-shadow: #617dcc 3px 3px 13px;
     filter: blur(0px);
     cursor: pointer;
 }

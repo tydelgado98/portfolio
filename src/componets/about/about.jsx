@@ -20,7 +20,7 @@ import skills11 from './images/icons8-postman-api-256.png';
 
 const About = () => (
   <div id="about">
-    <img id='picOfMe' src={me} alt="picture of me" />
+    <img id='picOfMe' src={me} alt="picture of me"  />
     <div id='me'>
       <h1>Bio</h1>
       <h2>
@@ -28,8 +28,13 @@ const About = () => (
         With a deep love for technology, my ultimate passion lies in bringing ideas to life through web development. <br />
       </h2>
       <section id='herd'>
-        <img src={herd} alt="" />
-        <img src={sup} alt="" />
+        <img src={herd} alt="" onClick={() => {
+      window.location.href = "https://github.com/tydelgado98";
+    }}  />
+
+        <img src={sup} alt=""  onClick={() => {
+      window.location.href = "https://www.linkedin.com/in/justin-delgado-90935b264/";
+        }}/>
       </section>
     </div>
     <div id="bg">

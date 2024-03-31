@@ -1,16 +1,16 @@
 import React from 'react';
 import './work.css';
 import apps from './work.json';
-import pupsImage from './images/pups.jpg';
+import pupsImage from './images/pups2.png';
 import terminatorImage from './images/IMG_2662.PNG';
 import garageJunkiesImage from './images/hutt.png';
 import quizImage from './images/quiz.png';
 import weatherTrackerImage from './images/rain.png';
-import desertImage from './images/desert.png';
+import desertImage from './images/newRpgShot.png';
 
 const appImages = {
   'ThePawPath': pupsImage,
-  'La Desert Chronicles': desertImage,
+  'La moonlight Chronicles': desertImage,
   'Garage Junkies': garageJunkiesImage,
   'ScriptSprint': quizImage,
   'Weather Tracker': weatherTrackerImage

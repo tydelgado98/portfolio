@@ -2,15 +2,15 @@
     {
       "key": 1,
       "appName": "ThePawPath",
-      "pic": "./images/pups.jpg",
+      "pic": "./images/pups2.png",
       "info": "Find pets for adoption in your area 😇",
       "websiteUrl": "https://unnamedmistress.github.io/thepawpath/"
     },
     {
       "key": 2,
-      "appName": "La Desert Chronicles",
-      "pic": "./images/desert.png",
-      "info": "Turn based rpg game with a desert theme!🌵",
+      "appName": "La moonlight Chronicles",
+      "pic": "./images/newRpgShot.png",
+      "info": "Fun & Addictive turn based rpg!🌟",
       "websiteUrl": "https://tydelgado98.github.io/first-rpg/"
     },
     {
