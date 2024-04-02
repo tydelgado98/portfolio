@@ -19,13 +19,14 @@ import sup from './images/icons8-linked-in-128.png';
 import skills11 from './images/icons8-postman-api-256.png';
 
 const About = () => (
+  
   <div id="about">
-    <img id='picOfMe' src={me} alt="picture of me"  />
+    <img className='pictureTop' src={me} alt="picture of me"  />
     <div id='me'>
-      <h1>Bio</h1>
-      <h2>
-        I'm Justin Delgado, a passionate full-stack developer who has honed my skills through rigorous training at UCF's esteemed bootcamp.
-        With a deep love for technology, my ultimate passion lies in bringing ideas to life through web development. <br />
+      <h2 className='intro'>Bio</h2>
+      <h2 className='bioPart'>
+        I'm Justin Delgado, a passionate full-stack developer <br /> who has honed my skills through rigorous training at UCF's esteemed bootcamp. <br />
+        With a deep love for technology, my ultimate passion lies in bringing ideas to life through web development.
       </h2>
       <section id='herd'>
         <img src={herd} alt="" onClick={() => {

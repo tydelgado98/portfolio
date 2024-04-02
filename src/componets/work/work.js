@@ -22,6 +22,7 @@ const Work = () => {
   };
 
   return (
+    <div id="df">
     <div id="work">
       <h1>Recent Projects</h1>
 
@@ -41,6 +42,7 @@ const Work = () => {
           </div>
         ))}
       </div>
+    </div>
     </div>
   );
 };

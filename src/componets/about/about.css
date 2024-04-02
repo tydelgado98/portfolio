@@ -1,25 +1,56 @@
 body {
-    background-color: #303030;
+    background: linear-gradient(45deg, #d2001a, #7462ff, #f48e21, #23d5ab );
     color: #C8C8C8;
+    background-size: 300% 300%;
+    /* background-image: url(./images/Untitled\ design.png); */
+    animation: color 12s ease-in-out infinite;
+}
+
+@keyframes color {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.intro{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bioPart{
+  text-align: center;
+  margin-left: 5%;
+  font-family: cursive;
 }
 
 #about {
-    width: 100%;
-    margin: 20px auto;
-    margin-top: 3%;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center items horizontally */
+  justify-content: center; /* Center items vertically */
+  width: 100%;
+  margin: 20px auto;
+  margin-top: 3%;
+  color: #282828;
 }
 
-#about img {
-    width: 11%;
-    border: none;
-    border-radius: 200px;
-    float: left;
-    margin-right: 4%;
-    margin-bottom: 0%;
-    margin-left: 10%;
+.pictureTop {
+  width: 8%;
+  margin-bottom: 20px; /* Add margin to create space between the image and the bio text */
+  border-radius: 150px;
 }
+
+
+
+
 #about img:hover {
-    box-shadow: #617dcc 2.5px 0px 10px;
+  box-shadow: 9px -1px 20px 2px #000;
+  transition: 0.5s;
 }
 p {
     font-size: 1.2rem;
@@ -43,7 +74,7 @@ p {
   justify-content: center;
   margin-top: 1%;
   margin-bottom: 1%;
-  width: 90%; /* Adjust this value as needed */
+  width: 85%; /* Adjust this value as needed */
   max-width: 100%; /* Ensure the skills container doesn't exceed the parent container */
 }
 
@@ -72,8 +103,9 @@ p {
   }
   
   #bottom h1 {
-    margin-bottom: 2.3rem;
+    margin-bottom: 3.8rem;
     font-size:  2.8rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
   
   #bottom img {
@@ -82,21 +114,24 @@ p {
     display: block;
     margin: 0 auto;
     border-radius: 33px;
-    transition: 0.9s;
+    transition: 1.3s;
   }
   #bottom img:hover {
-    transform: scale(1.1);
-    box-shadow: #617dcc 6px 6px 9px;
+    transform: scale(1.26);
+    box-shadow: 9px -1px 20px 2px #000;
+    transition: 1.2s;
   }
-  
+#herd{
+  margin-bottom: 10%;
+}
+
   #herd img {
-    width: 6%;
+    width: 8%;
     height: auto;
-    display: block;
+    
     margin: 0;
     transition: 0.5s;
     border: none;
-    margin-right: 4px;
   }
   #herd img:hover {
    
@@ -108,9 +143,7 @@ p {
   }
   
 #me {
-    margin-top: 5%;
-    margin-bottom: 15%;
-   margin-right: 25%;
+    text-align: center;
 }
 
 
@@ -120,15 +153,3 @@ p {
    margin-right: 25%;
 }
 
-/* #picOfMe {
-  width: 6%;
-  height: auto;
-  display: block;
-  margin: 0;
-  transition: 0.5s;
-  border: none;
-}
-#picOfMe:hover {
-    border: none;
-    transform: scale(1.1);
-} */
