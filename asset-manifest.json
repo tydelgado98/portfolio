@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a2a58c65.css",
-    "main.js": "/portfolio/static/js/main.92474309.js",
+    "main.css": "/portfolio/static/css/main.3ff79b6a.css",
+    "main.js": "/portfolio/static/js/main.31747cf0.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/IMG_2662.PNG": "/portfolio/static/media/IMG_2662.5ea0c8d50eb479c8a6eb.PNG",
     "static/media/newRpgShot.png": "/portfolio/static/media/newRpgShot.f4603d22fa584ee86196.png",
@@ -22,12 +22,12 @@
     "static/media/quiz.png": "/portfolio/static/media/quiz.c2ecaba23901b8bcc791.png",
     "static/media/react.png": "/portfolio/static/media/react.4458987cc59156258cac.png",
     "index.html": "/portfolio/index.html",
-    "main.a2a58c65.css.map": "/portfolio/static/css/main.a2a58c65.css.map",
-    "main.92474309.js.map": "/portfolio/static/js/main.92474309.js.map",
+    "main.3ff79b6a.css.map": "/portfolio/static/css/main.3ff79b6a.css.map",
+    "main.31747cf0.js.map": "/portfolio/static/js/main.31747cf0.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2a58c65.css",
-    "static/js/main.92474309.js"
+    "static/css/main.3ff79b6a.css",
+    "static/js/main.31747cf0.js"
   ]
 }
