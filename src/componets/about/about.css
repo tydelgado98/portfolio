@@ -3,7 +3,7 @@ body {
     color: #C8C8C8;
     background-size: 300% 300%;
     /* background-image: url(./images/Untitled\ design.png); */
-    animation: color 12s ease-in-out infinite;
+    animation: color 15s ease-in-out infinite;
 }
 
 @keyframes color {

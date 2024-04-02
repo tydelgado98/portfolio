@@ -24,7 +24,7 @@ const Work = () => {
   return (
     <div id="df">
     <div id="work">
-      <h1>Recent Projects</h1>
+      <h1 className='recents'>Recent Projects</h1>
 
       <div id="appsDiv">
         {apps.map(({ key, appName, info, websiteUrl }) => (
