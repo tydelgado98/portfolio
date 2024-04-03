@@ -8,7 +8,7 @@ const Nav = props =>
         </div>
         <div>
             <button onClick={() => props.setPage('about')}>About Me</button>
-            <button onClick={() => props.setPage('work')}>Projects</button>
+            <button onClick={() => props.setPage('work')} >Projects</button>
             <button onClick={() => props.setPage('contact')}>Contact</button>
         </div>
     </nav>

@@ -18,9 +18,13 @@ import herd from './images/icons8-github-100.png';
 import sup from './images/icons8-linked-in-128.png';
 import skills11 from './images/icons8-postman-api-256.png';
 
+
+const currentPage = 'page1';
+
+
 const About = () => (
   
-  <div id="about">
+  <div id="about"  className={`App ${currentPage}`}>
     <img className='pictureTop' src={me} alt="picture of me"  />
     <div id='me'>
       <h2 className='intro'>Bio</h2>
